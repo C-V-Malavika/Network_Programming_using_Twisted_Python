@@ -14,13 +14,13 @@ Here is an overview of the codes in this repository
   - Implementation of Subnetting using Twisted Python
   - Implementation of Remote Procedure Call (RPC) using Twisted Python
   - Applications using TCP and UDP Sockets using Twisted Python
-    a) Echo Client/Server
-    b) Chat
-    c) File Transfer 
-    d) DNS
-    e) SNMP
+    - Echo Client/Server
+    - Chat
+    - File Transfer 
+    - DNS
+    - SNMP
   - Implementation of Routing Algorithms
-    a) Distance Vector Routing
-    b) Open Shortest Path First
-    c) Link State Routing
-    d) Flooding
+    - Distance Vector Routing
+    - Open Shortest Path First
+    - Link State Routing
+    - Flooding
